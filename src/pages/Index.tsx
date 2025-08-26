@@ -14,7 +14,7 @@ const Index = () => {
   };
 
   const openCatalog = () => {
-    window.open('/catalog', '_blank');
+    window.open('https://shelsmebel.ru/garderobnye-sh', '_blank');
   };
 
   const openConstructor = () => {
